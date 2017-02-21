@@ -1,4 +1,4 @@
 # CodingPractice
 
-This repository is dedicated to daily algorithm challenges.
+This repository is dedicated to algorithm challenges.
 
